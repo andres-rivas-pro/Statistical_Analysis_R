@@ -22,6 +22,6 @@ Load, clean up, and reshape datasets using tidyverse and dplyr in R
 
 ### Results:
 
-- [Technical report]()
+- [Technical report](https://github.com/raven-rivas/Statistical_Analysis_R/blob/master/R_analysis/MechaCarWriteUp.txt)
 
 - [Rscript](https://github.com/raven-rivas/Statistical_Analysis_R/blob/master/R_analysis/MechaCarChallenge.RScript)
